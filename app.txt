@@ -1,3 +1,5 @@
 sample file for github desktop 
 more text for my branchhh
 This means that every time you access a resource through an endpoint, the API provides the same response. It does not remember your last request and treats it as a new one.
+a resource through an endpoint, the API provides the same response.
+a new change added to this file, doesn't have to make sense because no one will read it anyway.
